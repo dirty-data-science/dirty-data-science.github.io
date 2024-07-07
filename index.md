@@ -1,4 +1,4 @@
-We believe that statistical analysis of uncurated data should be easier. 
+**We believe that statistical analysis of uncurated data should be easier**
 
 &nbsp;
 
@@ -8,8 +8,6 @@ learning without data wrangling
 &nbsp;
 
 &nbsp;
-
-This is research in progress.
 
 Some links:
 - [Tutorials on machine-learning with non-curated data](http://dirtydata.science/python)
