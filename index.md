@@ -2,6 +2,9 @@ We believe that statistical analysis of uncurated data should be easier.
 
 &nbsp;
 
+Tabular learning: [skrub](http://skrub-data.org) enables machine
+learning without data wrangling
+
 &nbsp;
 
 &nbsp;
